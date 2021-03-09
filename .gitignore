@@ -1,0 +1,8 @@
+/coverage
+/node_modules
+/.vscode
+
+src/**/*.js
+*.js.map
+
+private.ts
