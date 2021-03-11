@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/main.js",
   "dependencies": {
+    "dropbox": "^9.2.0",
     "node-fetch": "^2.6.1",
     "pushbullet": "^2.4.0"
   },
